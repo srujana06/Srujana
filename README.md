@@ -1,2 +1,2 @@
-# coursera-test
+# Srujana
 learning a course in coursera
